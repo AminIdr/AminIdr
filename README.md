@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**AminIdr/AminIdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInUsername-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amine-idrissi-47061a243)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/AminIdr)
 
-Here are some ideas to get you started:
+I'm a computer science engineering student passionate about Artificial Intelligence (AI) and aim to create impactful projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **[e.g., Advanced Machine Learning, Cryptography, Data Visualization]**
+- 💼 Past experiences: **[e.g., Internships, volunteer projects, contributions to open source]**
+- 💡 Fun fact: [Add a unique fact about yourself!]
+  
+## 🛠️ Skills & Technologies
+
+- **Programming Languages:** Python, JavaScript, C++, C, Go, PHP
+- **Web Development:** HTML, CSS, Bootstrap, Flask, Streamlit
+- **Data Science:** Pandas, Scikit-Learn, TensorFlow, Keras...
+- **Tools & Platforms:** GitHub, Docker...
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AminIdr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AminIdr&layout=compact&theme=radical)
